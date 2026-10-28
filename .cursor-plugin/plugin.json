@@ -1,0 +1,15 @@
+{
+  "name": "monito",
+  "displayName": "Monito",
+  "version": "1.0.0",
+  "description": "Check a deployed URL in a real browser and get a verdict with screenshots, network and console evidence.",
+  "author": {
+    "name": "Monito",
+    "url": "https://www.monito.dev"
+  },
+  "homepage": "https://www.monito.dev/docs/mcp",
+  "repository": "https://github.com/BartoszJarocki/monito.dev-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "testing", "browser", "qa", "verification"],
+  "logo": "assets/logo.svg"
+}

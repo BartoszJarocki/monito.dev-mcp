@@ -1,0 +1,10 @@
+{
+  "name": "monito",
+  "version": "1.0.0",
+  "description": "Check a deployed URL in a real browser and get a verdict with evidence.",
+  "mcpServers": {
+    "monito": {
+      "httpUrl": "https://www.monito.dev/api/mcp"
+    }
+  }
+}

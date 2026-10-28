@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "monito": {
+      "url": "https://www.monito.dev/api/mcp"
+    }
+  }
+}
